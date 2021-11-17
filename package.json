@@ -6,9 +6,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "drei": "^2.2.21",
     "next": "latest",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.134.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
